@@ -1,0 +1,3 @@
+[submodule "libraries/RP2040-Zero-KiCAD"]
+	path = libraries/RP2040-Zero-KiCAD
+	url = https://github.com/dj505/RP2040-Zero-KiCAD/
