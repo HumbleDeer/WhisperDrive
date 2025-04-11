@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 45,
+    "active_layer": 11,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -47,7 +47,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_00000080_00000004",
+    "visible_layers": "ffffffff_ffffffff_ffffd57f_fffffffe",
     "zone_display_mode": 0
   },
   "git": {
@@ -113,7 +113,19 @@
     "files": [
       {
         "name": "WhisperDrive.kicad_pcb",
-        "open": false,
+        "open": true,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": -8,
+          "pos_y": -8,
+          "size_x": 1936,
+          "size_y": 1048
+        }
+      },
+      {
+        "name": "WhisperDrive.kicad_sch",
+        "open": true,
         "window": {
           "display": 0,
           "maximized": true,

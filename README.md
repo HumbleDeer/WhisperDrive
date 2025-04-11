@@ -34,6 +34,6 @@ Some other projects that may be worth checking out. These are probably friends o
 
 - [NyoomiesKME](https://github.com/comradef191/NyoomiesKME)  
   A Pico or BlackPill powered expansion board for Klipper, with support for four motors running in SPI or UART, and ability to run higher currents than most mainboards.
-- [Danger Klipper](https://github.com/DangerKlippers/danger-klipper)  
-  Klipper but... Dangerous  
+- [Kalico](https://github.com/KalicoCrew/kalico)  
+  Formerly known as DangerKlipper
   > This is a community-maintained fork of the Klipper firmware. Our goal is to support features and behavior that could be "risky" if used incorrectly.
