@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 11,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -31,26 +31,22 @@
     "visible_items": [
       "vias",
       "footprint_text",
-      "footprint_anchors",
       "ratsnest",
       "footprints_front",
       "footprints_back",
       "footprint_values",
       "footprint_references",
       "tracks",
-      "drc_errors",
-      "drawing_sheet",
       "bitmaps",
       "pads",
       "zones",
-      "drc_warnings",
-      "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffd57f_fffffffe",
+    "visible_layers": "00000000_00000000_0fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
+    "repo_password": "",
     "repo_type": "",
     "repo_username": "",
     "ssh_key": ""
@@ -112,8 +108,8 @@
   "project": {
     "files": [
       {
-        "name": "WhisperDrive.kicad_pcb",
-        "open": true,
+        "name": "WhisperDrive.kicad_sch",
+        "open": false,
         "window": {
           "display": 0,
           "maximized": true,
@@ -124,8 +120,8 @@
         }
       },
       {
-        "name": "WhisperDrive.kicad_sch",
-        "open": true,
+        "name": "WhisperDrive.kicad_pcb",
+        "open": false,
         "window": {
           "display": 0,
           "maximized": true,

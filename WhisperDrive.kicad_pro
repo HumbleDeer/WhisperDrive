@@ -80,7 +80,8 @@
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
-        "hole_to_hole": "warning",
+        "hole_near_hole": "error",
+        "hole_to_hole": "error",
         "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
@@ -492,14 +493,22 @@
         "wire_width": 6
       },
       {
+        "bus_width": 12,
         "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
         "name": "VFAN",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 1.0,
         "via_diameter": 1.2,
-        "via_drill": 0.6
+        "via_drill": 0.6,
+        "wire_width": 6
       }
     ],
     "meta": {
@@ -510,8 +519,9 @@
       "FAN1_POS": [
         "VFAN"
       ],
-      "VFAN+": "VFAN",
-      "unconnected-(D4-A-Pad2)": "VFAN"
+      "FAN2_POS": [
+        "VFAN"
+      ]
     },
     "netclass_patterns": [
       {
@@ -677,6 +687,10 @@
     [
       "4862d7d4-21f6-4bd8-87aa-e9c300a437e3",
       "Root"
+    ],
+    [
+      "5ab96fe6-32de-42db-881f-d9cd9d2b1e77",
+      "Power"
     ]
   ],
   "text_variables": {}

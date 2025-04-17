@@ -5417,7 +5417,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "81b831fc-c12a-4cef-95d9-8fbbb02b975d")
+			(uuid "09e50648-6bc8-4a3c-94d7-15d8b1df37e3")
 		)
 		(pad "2" smd rect
 			(at 1.64 -20.447 90)
@@ -5460,7 +5460,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "cc030e1c-5a0e-4c69-8498-b749e16a9c1c")
+			(uuid "4ed0a603-7b81-4a1d-bece-191e2113cf83")
 		)
 		(pad "3" smd rect
 			(at 1.64 -17.907 90)
@@ -5502,7 +5502,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "ef5ba454-11ba-4163-8914-087174289d1d")
+			(uuid "d1b1810e-f482-4aac-a88f-10f243879873")
 		)
 		(pad "4" smd rect
 			(at 1.64 -15.367 90)
@@ -5544,7 +5544,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "511427f8-fc1e-43c3-9375-d77900f30c51")
+			(uuid "7a0498ec-2c83-4996-a7f0-99999c08239f")
 		)
 		(pad "5" smd rect
 			(at 1.64 -12.827 90)
@@ -5586,7 +5586,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "9ceaff09-953f-4830-82c5-e640f901c99e")
+			(uuid "a3d70ef7-5c02-435e-89ed-2f26061200cf")
 		)
 		(pad "6" smd rect
 			(at 1.69 -10.287 90)
@@ -5628,7 +5628,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "c43962e0-6b67-473c-9ee0-811674221573")
+			(uuid "3e1d0212-e265-4f8b-8ced-0748954ed44c")
 		)
 		(pad "7" smd rect
 			(at 1.69 -7.747 90)
@@ -5670,7 +5670,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "727c36a5-b8dc-46aa-85e6-90511db6b3c5")
+			(uuid "21f993c3-84f4-444e-bfbe-842e4dd7e0ec")
 		)
 		(pad "8" smd rect
 			(at 1.69 -5.207 90)
@@ -5712,7 +5712,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "2ec41f32-e9bc-4b06-8017-deb58445adbd")
+			(uuid "85acb210-953a-4234-9891-54e45b92eb43")
 		)
 		(pad "9" smd rect
 			(at 1.69 -2.667 90)
@@ -5754,7 +5754,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "c9911bd0-b588-4c6a-9dab-78bbf3056dfd")
+			(uuid "5e96172b-d9be-4878-88e0-fe40a4b58368")
 		)
 		(pad "10" thru_hole circle
 			(at 17.78 -22.987 90)
@@ -5796,7 +5796,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "fa6fb716-5267-4150-8a3e-72c72d8b5835")
+			(uuid "4b8c2451-c0c0-4183-9e16-77aaa1387595")
 		)
 		(pad "11" thru_hole circle
 			(at 17.78 -20.447 90)
@@ -5838,7 +5838,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "bc58da51-da46-4148-9e6f-a85d902a3bef")
+			(uuid "b3f14aa1-cb81-4c7a-82db-fe942a71b52c")
 		)
 		(pad "12" thru_hole circle
 			(at 17.78 -17.907 90)
@@ -5880,7 +5880,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "47560559-cc3b-4bc0-855d-5b6506ba57f0")
+			(uuid "1699766a-cf3a-4e5b-affe-0a0cabc376b1")
 		)
 		(pad "13" thru_hole circle
 			(at 17.78 -15.367 90)
@@ -5922,7 +5922,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "77cfa74a-ddcd-459b-9c16-f0677bc70061")
+			(uuid "9e2d72b7-3fc7-4faa-841d-a98a405df89a")
 		)
 		(pad "14" thru_hole circle
 			(at 17.78 -12.827 90)
@@ -5964,7 +5964,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "b0c7586d-47c3-4dd2-a093-c71a2908acda")
+			(uuid "9e4fcc6c-c6f3-4f10-95af-1f2524d97de4")
 		)
 		(pad "15" thru_hole circle
 			(at 17.78 -10.287 90)
@@ -6006,7 +6006,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "9fecca8c-716e-4328-abb6-1b9c8be30443")
+			(uuid "934b17aa-1ecc-422d-8cd5-bfbb77d9364e")
 		)
 		(pad "16" thru_hole circle
 			(at 17.78 -7.747 90)
@@ -6048,7 +6048,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "ca0804d7-1a34-41ef-b3c9-d3990cfe4eb9")
+			(uuid "0aa6fd3a-c062-468d-8418-91f799fa183e")
 		)
 		(pad "17" thru_hole circle
 			(at 17.78 -5.207 90)
@@ -6090,7 +6090,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "434ff9b8-606b-4d9b-809b-59e561f40133")
+			(uuid "73df3c3b-67c3-4244-9a42-7f59f4bdbb2c")
 		)
 		(pad "18" thru_hole circle
 			(at 17.78 -2.667 90)
@@ -6132,7 +6132,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "0861ba69-b9fd-4848-b90d-5fde1ccb1904")
+			(uuid "2cf9b96b-6428-4861-9cdd-7c53651eed25")
 		)
 		(pad "19" thru_hole circle
 			(at 5.08 -2.667 90)
@@ -6174,7 +6174,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "7e785169-07d0-4b92-85f7-4699d8e16d67")
+			(uuid "a3930a67-8d0e-4a49-9b12-6063957f88cd")
 		)
 		(pad "20" thru_hole circle
 			(at 7.62 -2.667 90)
@@ -6216,7 +6216,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "79660e92-ad4f-43a4-925c-8f992a3c847d")
+			(uuid "ac230be4-7d47-4834-b003-fd4867ef6130")
 		)
 		(pad "21" thru_hole circle
 			(at 10.16 -2.667 90)
@@ -6258,7 +6258,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "310da326-0e14-4c8b-900c-6cbbb92b6f95")
+			(uuid "bfd72376-8867-4b44-9396-df4e476a531d")
 		)
 		(pad "22" thru_hole circle
 			(at 12.7 -2.667 90)
@@ -6300,7 +6300,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "c378bdbc-ccde-4ff0-bc41-3164d59798ba")
+			(uuid "be9abbd0-8d5e-4cc9-93d4-77be064a9c45")
 		)
 		(pad "23" thru_hole circle
 			(at 15.24 -2.667 90)
@@ -6342,7 +6342,7 @@
 				(allow_two_segments yes)
 				(prefer_zone_connections yes)
 			)
-			(uuid "a7807046-5550-4f30-a225-62f5ceb1378a")
+			(uuid "28cc3dcc-bc30-489c-b414-cd83a15ddf2f")
 		)
 		(embedded_fonts no)
 	)
@@ -8627,12 +8627,12 @@
 		(uuid "fb6eef2c-8b13-4bd0-a789-ed20005925b5")
 	)
 	(segment
-		(start 177.305 134.6)
+		(start 177.5 134.6)
 		(end 180 134.6)
 		(width 1.5)
 		(layer "F.Cu")
 		(net 5)
-		(uuid "3adac35d-1aef-4d3e-a373-c41ec0e76197")
+		(uuid "68f0b410-5585-46c5-8932-e8ff548da974")
 	)
 	(via
 		(at 180 134.6)
